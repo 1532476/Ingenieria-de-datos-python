@@ -40,6 +40,7 @@ Sube el contenido de tu repositorio local (los commits) a un repositorio remoto.
 
 ```bash
 git push origin <nombre_de_la_rama>
+git push #No es necesario origin ....
 ```
 *Normalmente, la rama principal se llama `main` o `master`.*
 
